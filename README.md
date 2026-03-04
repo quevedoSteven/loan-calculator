@@ -1,4 +1,4 @@
-# Loan Capital Track
+# WealthWire - Lender Dashboard
 
 **Professional loan portfolio management for serious lenders.**
 
@@ -8,7 +8,7 @@
 
 ## What Is This
 
-Loan Capital Track is a private, subscription-based platform built for:
+WealthWire is a private, subscription-based platform built for:
 
 - Private lenders managing multiple borrowers
 - Small credit unions needing digital infrastructure
@@ -132,10 +132,10 @@ Not yet. On the roadmap for Q2 2026.
 
 ## Contact
 
-Questions? Reach out at **hello@loancapitaltrack.com**
+Questions? Reach out at **COMING SOON**
 
 Built for lenders who take their capital seriously.
 
 ---
 
-*Loan Capital Track is a registered trademark. All rights reserved.*
+*WealthWire is a registered trademark. All rights reserved.*
