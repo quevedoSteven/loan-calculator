@@ -2,7 +2,7 @@
 
 **Professional loan portfolio management for serious lenders.**
 
-[→ Request Access](https://loancapitaltrack.vercel.app)
+[→ Request Access](https://wealthwire.vercel.app)
 
 ---
 
@@ -68,7 +68,7 @@ We're currently in private beta with limited spots available.
 
 Regular pricing will be $79/month when we exit beta.
 
-[→ Apply for founding member access](https://loancapitaltrack.vercel.app)
+[→ Apply for founding member access](https://wealthwire.vercel.app)
 
 ---
 
@@ -105,7 +105,7 @@ The platform is proprietary and not available as open source.
 
 ## Getting Started
 
-1. **Request access** at [loancapitaltrack.vercel.app](https://loancapitaltrack.vercel.app)
+1. **Request access** at [wealthwire.vercel.app](https://wealthwire.vercel.app)
 2. **Create your account** — takes 30 seconds
 3. **Try demo mode** — explore with sample data (24-hour access)
 4. **Subscribe** when you're ready to go live
